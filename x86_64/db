@@ -1,0 +1,2 @@
+#!/bin/bash
+repo-add name.db.tar.gz *.pkg.tar.zst
